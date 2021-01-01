@@ -1,2 +1,2 @@
 # classified-KNN
-Uses a classified data set and KNN model to predict target class for new data based on its features.
+Given a classified data set from a company, the KNN model predicts a class for a new data point based on the provided features with hidden names. 
